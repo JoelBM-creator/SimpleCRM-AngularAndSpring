@@ -19,7 +19,7 @@ SP: En dicho fichero, podemos configurar para acceder al MySQL y añadir las cre
 ENG: In this file, we can configure to access MySQL and add the name and password credentials.
 <br />
 ### `RUNING THE APP IN THE SPRING`
-![RUNNING APP IN SPRING](https://github.com/JoelBM-creator/AppCustumers-AngularAndSpring/Captura.PNG)
+![RUNNING APP IN SPRING](https://raw.githubusercontent.com/JoelBM-creator/AppCustumers-AngularAndSpring/main/Captura.PNG)
 <br />
 SP: En la imagen se puede ver, como al iniciar el Spring se creara automaticamente la base de datos y añadire los clientes a la DB.
 <br />
@@ -82,10 +82,10 @@ Runs the app in the development mode.<br />
 Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
 
 ### `Page View`
-![View page](https://github.com/JoelBM-creator/AppCustumers-AngularAndSpring/Captura1.PNG)
+![View page](https://raw.githubusercontent.com/JoelBM-creator/AppCustumers-AngularAndSpring/main/Captura1.PNG)
 ### `Edit client`
-![Edit client](https://github.com/JoelBM-creator/AppCustumers-AngularAndSpring/Captura2.PNG)
+![Edit client](https://raw.githubusercontent.com/JoelBM-creator/AppCustumers-AngularAndSpring/main/Captura2.PNG)
 ### `Create client`
-![Create client](https://github.com/JoelBM-creator/AppCustumers-AngularAndSpring/Captura3.PNG)
+![Create client](https://raw.githubusercontent.com/JoelBM-creator/AppCustumers-AngularAndSpring/main/Captura3.PNG)
 ### `Edit Client Correctly`
-![Edit Client Correctly](https://github.com/JoelBM-creator/AppCustumers-AngularAndSpring/Captura4.PNG)
+![Edit Client Correctly](https://raw.githubusercontent.com/JoelBM-creator/AppCustumers-AngularAndSpring/main/Captura4.PNG)
